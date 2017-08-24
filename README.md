@@ -1,4 +1,4 @@
-Bitcoin Core integration/staging tree
+TLCoin kripto dijital para çalışma grubu Edit
 =====================================
 
 [![Build Status](https://travis-ci.org/bitcoin/bitcoin.svg?branch=master)](https://travis-ci.org/bitcoin/bitcoin)
